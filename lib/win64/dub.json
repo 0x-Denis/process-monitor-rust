@@ -1,0 +1,5 @@
+{
+    "lflags-windows-x86_64-ldc": [
+        "-Llib\\win64"
+    ]
+}
